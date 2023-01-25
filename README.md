@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davlyy
-- 👀 I’m interested in ...Java
-- 🌱 I’m currently learning ...Java
+- 👀 I’m interested in JavaScript
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...Java
 - 📫 How to reach me ...Java@de
 
